@@ -32,7 +32,8 @@ const AllServices = () => {
                 <h6>
                   <span className="fw-bold">Duration:</span> {service.duration}
                 </h6>
-                <button className="btn btn-dark fs-4 px-3 my-2">
+                <p>{service.details}</p> 
+                <button className="btn btn-dark fs-4 px-3 my-1">
                   ${service.price}
                 </button>
                 <Card.Text></Card.Text>
