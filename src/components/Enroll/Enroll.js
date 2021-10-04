@@ -4,6 +4,7 @@ import { Button, Form, Row, Col, Table } from "react-bootstrap";
 const Enroll = () => {
   return (
     <div className="container">
+      <h2 className="mt-4">The path of your training journey</h2>
       <img
         className="img-fluid mt-5 mb-4"
         src="https://smartdata.tonytemplates.com/dricub-driving-school/wp-content/uploads/2017/10/img-02.png"
