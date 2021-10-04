@@ -1,20 +1,20 @@
 import React from 'react';
 
-import Enroll from '../Enroll/Enroll';
+
+import Offers from '../Offers/Offers';
 import Services from '../Services/Services';
 
 const Home = () => {
- 
+
     return (
         <div className="container">
-            <h2>This is Home</h2>
-            <Enroll></Enroll>
+            <Offers></Offers>
             <Services></Services>
             {/* {
                 services.map(service => <Services service={service}></Services>)
             } */}
 
-         
+
         </div>
     );
 };

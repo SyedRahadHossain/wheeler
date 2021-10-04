@@ -13,7 +13,7 @@ const Services = () => {
     }, []);
     return (
         <div>
-            <h2>This is some popular services</h2>
+            <h2>This are some popular services of ours</h2>
             <Row xs={1} md={2} className="g-4 my-4">
                 {services.slice(0, 4).map((service) => (
                     <Col key={service.key}>
