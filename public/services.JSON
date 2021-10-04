@@ -1,0 +1,82 @@
+[
+    {
+      "key": "1",
+      "name": "Beginner",
+      "duration": "6 weeks",
+      "price": 250,
+      "image": "http://fsdriving.themerex.net/wp-content/uploads/2017/01/image-9-1170x658.jpg",
+      "details": "We are offering best car driving training in Town"
+    },
+    {
+      "key": "2",
+      "name": "Intermediate",
+      "duration": "6 weeks",
+      "price": 350,
+      "image": "https://images.unsplash.com/photo-1553782097-130fef5d3e27?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1632&q=80",
+      "details": "We are offering best car driving training in Town"
+    },
+    {
+      "key": "3",
+      "name": "Professional",
+      "duration": "10 weeks",
+      "price": 500,
+      "image": "http://fsdriving.themerex.net/wp-content/uploads/2017/01/image-18-1170x658.jpg",
+      "details": "We are offering best car driving training in Town"
+    },
+    {
+      "key": "4",
+      "name": "Advanced",
+      "duration": "12 weeks",
+      "price": 600,
+      "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2070&q=80",
+      "details": "We are offering best car driving training in Town"
+    },
+    {
+      "key": "5",
+      "name": "Brush-up",
+      "duration": "4 weeks",
+      "price": 200,
+      "image": "https://images.unsplash.com/photo-1553782097-130fef5d3e27?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1632&q=80",
+      "details": "We are offering best car driving training in Town"
+    },
+    {
+      "key": "6",
+      "name": "Protective",
+      "duration": "8 weeks",
+      "price": 450,
+      "image": "http://fsdriving.themerex.net/wp-content/uploads/2017/01/image-14-1170x658.jpg",
+      "details": "We are offering best car driving training in Town"
+    },
+    {
+      "key": "7",
+      "name": "Senior",
+      "duration": "8 weeks",
+      "price": 370,
+      "image": "https://smartdata.tonytemplates.com/dricub-driving-school/wp-content/uploads/2017/10/img-05.jpg",
+      "details": "We are offering best car driving training in Town"
+    },
+    {
+      "key": "8",
+      "name": "Teen",
+      "duration": "6 weeks",
+      "price": 400,
+      "image": "https://images.unsplash.com/photo-1590415018064-0722190fe4cd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1074&q=80",
+      "details": "We are offering best car driving training in Town"
+    },
+    {
+      "key": "9",
+      "name": "Traffic Rules",
+      "duration": "2 weeks",
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1630406144797-821be1f35d75?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+      "details": "We are offering best car driving training in Town"
+    },
+    {
+      "key": "10",
+      "name": "Stick Shift Lessons",
+      "duration": "1 weeks",
+      "price": 100,
+      "image": "https://smartdata.tonytemplates.com/dricub-driving-school/wp-content/uploads/2017/10/img-08.jpg",
+      "details": "We are offering best car driving training in Town"
+    }
+  ]
