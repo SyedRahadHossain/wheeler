@@ -8,4 +8,4 @@
 
 * User can explore our services and know about us, what we do.
 
-* User can select the driving packages from this website.
+* User can select the driving training packages from this website.
