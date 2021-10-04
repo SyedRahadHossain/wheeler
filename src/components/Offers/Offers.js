@@ -1,5 +1,5 @@
 import React from "react";
-import images from "../../images/special-winter-offer.jpg";
+import images from "../../images/special-winter-offer.png";
 
 const Offers = () => {
   return (
