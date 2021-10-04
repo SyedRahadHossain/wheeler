@@ -9,7 +9,6 @@ import Enroll from "./components/Enroll/Enroll";
 import AllServices from "./components/AllServices/AllServices";
 
 function App() {
-
   return (
     <div className="App">
       <Router>
