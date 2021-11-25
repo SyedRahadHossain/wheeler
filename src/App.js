@@ -8,6 +8,7 @@ import Footer from "./components/Footer/Footer";
 import Enroll from "./components/Enroll/Enroll";
 import AllServices from "./components/AllServices/AllServices";
 
+// testing git push
 function App() {
   return (
     <div className="App">

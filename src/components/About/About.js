@@ -31,14 +31,14 @@ const About = () => {
                 </div>
                 <div className="col-md-6">
                     <img
-                        className="img-fluid"
+                        className="img-fluid rounded"
                         src="https://images.unsplash.com/photo-1550517636-ad7bac40dc28?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1169&q=80"
                         alt=""
                     />
                 </div>
             </div>
             {/* instruction section */}
-            <h2>Our instructors</h2>
+            <h2 className="mb-4">Our instructors</h2>
             {/* card */}
             <CardGroup className="mb-5">
                 <Card>
